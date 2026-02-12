@@ -79,5 +79,3 @@ All predictions are powered by the trained machine learning models.
 - Demonstrates end-to-end ML workflow with deployment
 
 
-## 📂 Project Structure
-
